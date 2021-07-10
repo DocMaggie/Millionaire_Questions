@@ -28,246 +28,246 @@
         "correctAnswer": "A"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "How much food does a sheep carry?",
+        "answerA": "50",
+        "answerB": "75",
+        "answerC": "100",
+        "answerD": "150",
+        "correctAnswer": "C"
       }
     ],
     "dollars300": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "In what age can you build Fishing Ships?",
+        "answerA": "Dark Age",
+        "answerB": "Feudal Age",
+        "answerC": "Castle Age",
+        "answerD": "Imperial Age",
+        "correctAnswer": "A"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "question": "Who is a counter to Scout Cavalry?",
+        "answerA": "Man-at-arms",
+        "answerB": "Spearman",
+        "answerC": "Archer",
+        "answerD": "Skirmisher",
         "correctAnswer": "B"
       }
     ],
     "dollars500": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What is the base attack value of a Pikeman?",
+        "answerA": "3",
+        "answerB": "4",
+        "answerC": "5",
+        "answerD": "6",
+        "correctAnswer": "B"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "What civilization can build Kreposts?",
+        "answerA": "Burgundians",
+        "answerB": "Celts",
+        "answerC": "Bulgarians",
+        "answerD": "Magyars",
+        "correctAnswer": "C"
       }
     ],
     "dollars1000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
+        "question": "Which of these units has a minimum range?",
+        "answerA": "Archer",
+        "answerB": "Janissary",
+        "answerC": "Chu Ko Nu",
+        "answerD": "Mangonel",
         "correctAnswer": "D"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "question": "How much does a Blacksmith cost?",
+        "answerA": "100 wood",
+        "answerB": "150 wood",
+        "answerC": "175 wood",
+        "answerD": "200 wood",
         "correctAnswer": "B"
       }
     ],
     "dollars2000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What civilization has the benefit of\narmor upgrades on Villagers?",
+        "answerA": "Aztect",
+        "answerB": "Mayans",
+        "answerC": "Incas",
+        "answerD": "Goths",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "What technology improves the speed of Monks?",
+        "answerA": "Fervor",
+        "answerB": "Sanctity",
+        "answerC": "Redemption",
+        "answerD": "Heresy",
+        "correctAnswer": "A"
       }
     ],
     "dollars4000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What is the unique unit of the Vietnamese?",
+        "answerA": "Plumed Archer",
+        "answerB": "Rattan Archer",
+        "answerC": "Longbowman",
+        "answerD": "Slinger",
+        "correctAnswer": "B"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "What Town Center has the most initial HP?",
+        "answerA": "Briton",
+        "answerB": "Saracen",
+        "answerC": "Mayan",
+        "answerD": "Persian",
+        "correctAnswer": "D"
       }
     ],
     "dollars8000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What resource does the Wonder NOT cost?",
+        "answerA": "Wood",
+        "answerB": "Food",
+        "answerC": "Gold",
+        "answerD": "Stone",
+        "correctAnswer": "B"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "question": "What is the price of a War Galley?",
+        "answerA": "80 wood, 30 gold",
+        "answerB": "90 wood, 30 gold",
+        "answerC": "80 wood, 40 gold",
+        "answerD": "90 wood, 40 gold",
         "correctAnswer": "B"
       }
     ],
     "dollars16000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "Which of these units does melee damage?",
+        "answerA": "Bombard Tower",
+        "answerB": "Arbalester",
+        "answerC": "Throwing Axeman",
+        "answerD": "Elite Skirmisher",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "question": "What civilization gets even more\nhill bonus damage?",
+        "answerA": "Burgundians",
+        "answerB": "Tatars",
+        "answerC": "Huns",
+        "answerD": "Mongolians",
         "correctAnswer": "B"
       }
     ],
     "dollars32000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "Which of these units is the fastest?",
+        "answerA": "Battering Ram",
+        "answerB": "Monk with Fervor",
+        "answerC": "Teutonic Knight",
+        "answerD": "Scorpion",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the price of a Villager?",
+        "question": "What is the price of an Indian Villager?",
         "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "answerB": "42 food",
+        "answerC": "45 food",
+        "answerD": "50 food",
+        "correctAnswer": "C"
       }
     ],
     "dollars64000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
+        "question": "What is the base attack of a Siege Onager?",
+        "answerA": "50",
+        "answerB": "60",
+        "answerC": "65",
+        "answerD": "75",
         "correctAnswer": "D"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "question": "What is the base attack of a Heavy Scorpion?",
+        "answerA": "13",
+        "answerB": "16",
+        "answerC": "19",
+        "answerD": "22",
         "correctAnswer": "B"
       }
     ],
     "dollars125000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What is the base range of a Krepost?",
+        "answerA": "7",
+        "answerB": "8",
+        "answerC": "9",
+        "answerD": "10",
+        "correctAnswer": "A"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "Red Bull Wololo II and IV champion\nLiereyy is from which country?",
+        "answerA": "Norway",
+        "answerB": "Vietnam",
+        "answerC": "Austria",
+        "answerD": "Ukraine",
+        "correctAnswer": "C"
       }
     ],
     "dollars250000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "What civilization has an age advancement\nbonus?",
+        "answerA": "Malians",
+        "answerB": "Malay",
+        "answerC": "Mayans",
+        "answerD": "Mongols",
+        "correctAnswer": "B"
       },
       {
-        "question": "What is the price of a Villager?",
+        "question": "What is the cost of the cheapest\ntechnology in AoE 2: Definitive Edition?",
         "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
+        "answerB": "50 gold",
+        "answerC": "60 wood, 20 food",
+        "answerD": "75 wood, 75 food",
         "correctAnswer": "B"
       }
     ],
     "dollars500000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
+        "question": "What is the build time of a Palisade Wall?",
+        "answerA": "4 seconds",
+        "answerB": "5 seconds",
+        "answerC": "6 seconds",
+        "answerD": "7 seconds",
         "correctAnswer": "D"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "What tech makes all your ships cheaper?",
+        "answerA": "Gill Nets",
+        "answerB": "Careening",
+        "answerC": "Dry Dock",
+        "answerD": "Shipwright",
+        "correctAnswer": "D"
       }
     ],
     "dollars1000000": [
       {
-        "question": "What is the price of a Militia?",
-        "answerA": "55 food, 15 gold",
-        "answerB": "55 food, 20 gold",
-        "answerC": "60 food, 15 gold",
-        "answerD": "60 food, 20 gold",
-        "correctAnswer": "D"
+        "question": "Which of these civilizations has the\nfull siege tech tree?",
+        "answerA": "Slavs",
+        "answerB": "Turks",
+        "answerC": "Ethiopians",
+        "answerD": "Mongols",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the price of a Villager?",
-        "answerA": "40 food",
-        "answerB": "50 food",
-        "answerC": "40 food, 10 wood",
-        "answerD": "50 food, 10 wood",
-        "correctAnswer": "B"
+        "question": "What is Hera's favorite unit?",
+        "answerA": "Hussar",
+        "answerB": "Bombard Cannon",
+        "answerC": "Monk",
+        "answerD": "Archers in general",
+        "correctAnswer": "A"
       }
     ]
   }

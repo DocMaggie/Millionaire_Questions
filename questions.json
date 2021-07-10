@@ -1,0 +1,274 @@
+{
+  "questions": {
+    "dollars100": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars200": [
+      {
+        "question": "What is the price of a House?",
+        "answerA": "25 wood",
+        "answerB": "30 wood",
+        "answerC": "35 wood",
+        "answerD": "40 wood",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars300": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars500": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars1000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars2000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars4000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars8000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars16000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars32000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars64000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars125000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars250000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars500000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars1000000": [
+      {
+        "question": "What is the price of a Militia?",
+        "answerA": "55 food, 15 gold",
+        "answerB": "55 food, 20 gold",
+        "answerC": "60 food, 15 gold",
+        "answerD": "60 food, 20 gold",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "What is the price of a Villager?",
+        "answerA": "40 food",
+        "answerB": "50 food",
+        "answerC": "40 food, 10 wood",
+        "answerD": "50 food, 10 wood",
+        "correctAnswer": "B"
+      }
+    ]
+  }
+}

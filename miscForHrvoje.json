@@ -20,254 +20,254 @@
     ],
     "dollars200": [
       {
-        "question": "What is the price of a House?",
-        "answerA": "25 wood",
-        "answerB": "30 wood",
-        "answerC": "35 wood",
-        "answerD": "40 wood",
-        "correctAnswer": "A"
+        "question": "Koje je godine izašao NES u SAD-u?",
+        "answerA": "1983.",
+        "answerB": "1984.",
+        "answerC": "1985.",
+        "answerD": "1986.",
+        "correctAnswer": "C"
       },
       {
-        "question": "How much food does a sheep carry?",
-        "answerA": "50",
-        "answerB": "75",
-        "answerC": "100",
-        "answerD": "150",
-        "correctAnswer": "C"
+        "question": "Koji od navedenih sastojaka je voće?",
+        "answerA": "Krumpir",
+        "answerB": "Paprika",
+        "answerC": "Mrkva",
+        "answerD": "Rajčica",
+        "correctAnswer": "D"
       }
     ],
     "dollars300": [
       {
-        "question": "In what age can you build Fishing Ships?",
-        "answerA": "Dark Age",
-        "answerB": "Feudal Age",
-        "answerC": "Castle Age",
-        "answerD": "Imperial Age",
-        "correctAnswer": "A"
+        "question": "U kojem Mega Manu je predstavljen takozvani 'slide' pokret?",
+        "answerA": "1",
+        "answerB": "2",
+        "answerC": "3",
+        "answerD": "4",
+        "correctAnswer": "C"
       },
       {
-        "question": "Who is a counter to Scout Cavalry?",
-        "answerA": "Man-at-arms",
-        "answerB": "Spearman",
-        "answerC": "Archer",
-        "answerD": "Skirmisher",
+        "question": "Nastavi niz: 'Bebo, bebo, ...'",
+        "answerA": "'...možda te nebo.'",
+        "answerB": "'...bebo, bebo.'",
+        "answerC": "'...ma gdje si sad?'",
+        "answerD": "'...nešto sam te trebo.'",
         "correctAnswer": "B"
       }
     ],
     "dollars500": [
       {
-        "question": "What is the base attack value of a Pikeman?",
-        "answerA": "3",
-        "answerB": "4",
-        "answerC": "5",
-        "answerD": "6",
-        "correctAnswer": "B"
+        "question": "Iz kojeg je filma poznata poštapalica 'Nooo, we'll\nfight like lions!'?",
+        "answerA": "Tri Amigosa",
+        "answerB": "Snjeguljica",
+        "answerC": "Maska",
+        "answerD": "Karate Kid",
+        "correctAnswer": "A"
       },
       {
-        "question": "What civilization can build Kreposts?",
-        "answerA": "Burgundians",
-        "answerB": "Celts",
-        "answerC": "Bulgarians",
-        "answerD": "Magyars",
-        "correctAnswer": "C"
+        "question": "Zašto mama ne kupuje Čipi Čips prečesto?",
+        "answerA": "Jer joj se ne sviđa ime",
+        "answerB": "Jer je zastarjelo",
+        "answerC": "Jer joj se ne sviđa okus",
+        "answerD": "Jer je skuplji od drugih čipseva",
+        "correctAnswer": "D"
       }
     ],
     "dollars1000": [
       {
-        "question": "Which of these units has a minimum range?",
-        "answerA": "Archer",
-        "answerB": "Janissary",
-        "answerC": "Chu Ko Nu",
-        "answerD": "Mangonel",
-        "correctAnswer": "D"
+        "question": "U Minecraftu, koliko je jaja potrebno da se\nnapravi torta?",
+        "answerA": "1",
+        "answerB": "2",
+        "answerC": "3",
+        "answerD": "4",
+        "correctAnswer": "A"
       },
       {
-        "question": "How much does a Blacksmith cost?",
-        "answerA": "100 wood",
-        "answerB": "150 wood",
-        "answerC": "175 wood",
-        "answerD": "200 wood",
-        "correctAnswer": "B"
+        "question": "Koji boss u prvoj Castlevaniji se pojavljuje\nu nekom kasnijem levelu kao običan neprijatelj?",
+        "answerA": "Šišmiš",
+        "answerB": "Medusa",
+        "answerC": "Mumije",
+        "answerD": "Frankensteinovo čudovište",
+        "correctAnswer": "A"
       }
     ],
     "dollars2000": [
       {
-        "question": "What civilization has the benefit of\narmor upgrades on Villagers?",
-        "answerA": "Aztect",
-        "answerB": "Mayans",
-        "answerC": "Incas",
-        "answerD": "Goths",
-        "correctAnswer": "C"
+        "question": "Koji je od ovih kemijskih elemenata\nnajgušći (kg/m3)?",
+        "answerA": "Željezo",
+        "answerB": "Zlato",
+        "answerC": "Olovo",
+        "answerD": "Staklo",
+        "correctAnswer": "B"
       },
       {
-        "question": "What technology improves the speed of Monks?",
-        "answerA": "Fervor",
-        "answerB": "Sanctity",
-        "answerC": "Redemption",
-        "answerD": "Heresy",
-        "correctAnswer": "A"
+        "question": "Koliko iznosi jedan inč u centimetrima?",
+        "answerA": "2.24",
+        "answerB": "2.53",
+        "answerC": "2.73",
+        "answerD": "3.14",
+        "correctAnswer": "B"
       }
     ],
     "dollars4000": [
       {
-        "question": "What is the unique unit of the Vietnamese?",
-        "answerA": "Plumed Archer",
-        "answerB": "Rattan Archer",
-        "answerC": "Longbowman",
-        "answerD": "Slinger",
-        "correctAnswer": "B"
+        "question": "Tko je bio Kanonik u romanu 'U registraturi'?",
+        "answerA": "Ivičin susjed u mladosti",
+        "answerB": "Ivičin mentor",
+        "answerC": "Otac Ivičine Laure",
+        "answerD": "Pravo ime Illustrissimusa",
+        "correctAnswer": "A"
       },
       {
-        "question": "What Town Center has the most initial HP?",
-        "answerA": "Briton",
-        "answerB": "Saracen",
-        "answerC": "Mayan",
-        "answerD": "Persian",
+        "question": "Kako se zvao drugi predsjednik RH?",
+        "answerA": "Dražen Budiša",
+        "answerB": "Ivica Račan",
+        "answerC": "Franjo Tuđman",
+        "answerD": "Stipe Mesić",
         "correctAnswer": "D"
       }
     ],
     "dollars8000": [
       {
-        "question": "What resource does the Wonder NOT cost?",
-        "answerA": "Wood",
-        "answerB": "Food",
-        "answerC": "Gold",
-        "answerD": "Stone",
-        "correctAnswer": "B"
+        "question": "Koji od sljedećih pasa nije postojao u bivšem susjedstvu?",
+        "answerA": "Anda",
+        "answerB": "Akil",
+        "answerC": "Pando",
+        "answerD": "Vava",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the price of a War Galley?",
-        "answerA": "80 wood, 30 gold",
-        "answerB": "90 wood, 30 gold",
-        "answerC": "80 wood, 40 gold",
-        "answerD": "90 wood, 40 gold",
-        "correctAnswer": "B"
+        "question": "Kako se naziva oružje koje je Bizant koristio\nprotiv neprijateljske mornarice?",
+        "answerA": "Grčka vatra",
+        "answerB": "Kineska vatra",
+        "answerC": "Grčki prah",
+        "answerD": "Kineski prah",
+        "correctAnswer": "A"
       }
     ],
     "dollars16000": [
       {
-        "question": "Which of these units does melee damage?",
-        "answerA": "Bombard Tower",
-        "answerB": "Arbalester",
-        "answerC": "Throwing Axeman",
-        "answerD": "Elite Skirmisher",
-        "correctAnswer": "C"
+        "question": "Kako glasi djevojačko prezime od bake Ljubice?",
+        "answerA": "Naranđa",
+        "answerB": "Risek",
+        "answerC": "Gorski",
+        "answerD": "Pleh",
+        "correctAnswer": "B"
       },
       {
-        "question": "What civilization gets even more\nhill bonus damage?",
-        "answerA": "Burgundians",
-        "answerB": "Tatars",
-        "answerC": "Huns",
-        "answerD": "Mongolians",
+        "question": "Kako se naziva znanost o Indijskoj kulturi?",
+        "answerA": "Indijologija",
+        "answerB": "Indologija",
+        "answerC": "Indalogija",
+        "answerD": "Indijanija",
         "correctAnswer": "B"
       }
     ],
     "dollars32000": [
       {
-        "question": "Which of these units is the fastest?",
-        "answerA": "Battering Ram",
-        "answerB": "Monk with Fervor",
-        "answerC": "Teutonic Knight",
-        "answerD": "Scorpion",
+        "question": "Koliko sati traje jedan tjedan?",
+        "answerA": "24",
+        "answerB": "120",
+        "answerC": "168",
+        "answerD": "192",
         "correctAnswer": "C"
       },
       {
-        "question": "What is the price of an Indian Villager?",
-        "answerA": "40 food",
-        "answerB": "42 food",
-        "answerC": "45 food",
-        "answerD": "50 food",
-        "correctAnswer": "C"
+        "question": "U kojem dijelu Mega Mana se po prvi put\npojavljuje Wily Capsule?",
+        "answerA": "3",
+        "answerB": "4",
+        "answerC": "5",
+        "answerD": "6",
+        "correctAnswer": "B"
       }
     ],
     "dollars64000": [
       {
-        "question": "What is the base attack of a Siege Onager?",
-        "answerA": "50",
-        "answerB": "60",
-        "answerC": "65",
-        "answerD": "75",
-        "correctAnswer": "D"
+        "question": "Koje je godine preminuo drug Tito?",
+        "answerA": "1960.",
+        "answerB": "1970.",
+        "answerC": "1980.",
+        "answerD": "1990.",
+        "correctAnswer": "C"
       },
       {
-        "question": "What is the base attack of a Heavy Scorpion?",
-        "answerA": "13",
-        "answerB": "16",
-        "answerC": "19",
-        "answerD": "22",
+        "question": "U kojem je gradu napokon poražen Napoleon Bonaparte?",
+        "answerA": "Nottingham",
+        "answerB": "Waterloo",
+        "answerC": "Manchester",
+        "answerD": "Bristol",
         "correctAnswer": "B"
       }
     ],
     "dollars125000": [
       {
-        "question": "What is the base range of a Krepost?",
-        "answerA": "7",
-        "answerB": "8",
-        "answerC": "9",
-        "answerD": "10",
-        "correctAnswer": "A"
+        "question": "Koliko novčića košta Double Homing Wand\niz Mage Brothersa?",
+        "answerA": "200",
+        "answerB": "300",
+        "answerC": "400",
+        "answerD": "500",
+        "correctAnswer": "B"
       },
       {
-        "question": "Red Bull Wololo II and IV champion\nLiereyy is from which country?",
-        "answerA": "Norway",
-        "answerB": "Vietnam",
-        "answerC": "Austria",
-        "answerD": "Ukraine",
+        "question": "Koliko boja može prikazati suvremeni monitor?",
+        "answerA": "Oko 16 tisuća",
+        "answerB": "Oko 64 tisuće",
+        "answerC": "Oko 16 milijuna",
+        "answerD": "Oko 64 milijuna",
         "correctAnswer": "C"
       }
     ],
     "dollars250000": [
       {
-        "question": "What civilization has an age advancement\nbonus?",
-        "answerA": "Malians",
-        "answerB": "Malay",
-        "answerC": "Mayans",
-        "answerD": "Mongols",
+        "question": "Da bi neki skup bio polugrupa za zadanu operaciju,\nuz zatvorenost mora zadovoljavati i pravilo...",
+        "answerA": "...komutativnosti.",
+        "answerB": "...asocijativnosti.",
+        "answerC": "...linearnosti.",
+        "answerD": "...simetričnosti.",
         "correctAnswer": "B"
       },
       {
-        "question": "What is the cost of the cheapest\ntechnology in AoE 2: Definitive Edition?",
-        "answerA": "40 food",
-        "answerB": "50 gold",
-        "answerC": "60 wood, 20 food",
-        "answerD": "75 wood, 75 food",
-        "correctAnswer": "B"
+        "question": "Koliko trikova posjeduje Tom Turbo?",
+        "answerA": "45",
+        "answerB": "67",
+        "answerC": "89",
+        "answerD": "111",
+        "correctAnswer": "D"
       }
     ],
     "dollars500000": [
       {
-        "question": "What is the build time of a Palisade Wall?",
-        "answerA": "4 seconds",
-        "answerB": "5 seconds",
-        "answerC": "6 seconds",
-        "answerD": "7 seconds",
-        "correctAnswer": "D"
+        "question": "Koliko će Hrvoje Oreški imati godina kada će\nDomagoj Oreški imati 120% njegovih godina?",
+        "answerA": "35",
+        "answerB": "40",
+        "answerC": "50",
+        "answerD": "80",
+        "correctAnswer": "C"
       },
       {
-        "question": "What tech makes all your ships cheaper?",
-        "answerA": "Gill Nets",
-        "answerB": "Careening",
-        "answerC": "Dry Dock",
-        "answerD": "Shipwright",
-        "correctAnswer": "D"
+        "question": "Kako glasi šifra za otključavanje pune verzije\nHopmona?",
+        "answerA": "HM-794-645",
+        "answerB": "HM-645-794",
+        "answerC": "HP-794-645",
+        "answerD": "HP-645-794",
+        "correctAnswer": "A"
       }
     ],
     "dollars1000000": [
       {
-        "question": "Which of these civilizations has the\nfull siege tech tree?",
-        "answerA": "Slavs",
-        "answerB": "Turks",
-        "answerC": "Ethiopians",
-        "answerD": "Mongols",
-        "correctAnswer": "C"
+        "question": "Kako se naziva Al Bundyjeva kći?",
+        "answerA": "Sally",
+        "answerB": "Kelly",
+        "answerC": "Mindy",
+        "answerD": "Ronda",
+        "correctAnswer": "B"
       },
       {
-        "question": "What is Hera's favorite unit?",
-        "answerA": "Hussar",
-        "answerB": "Bombard Cannon",
-        "answerC": "Monk",
-        "answerD": "Archers in general",
-        "correctAnswer": "A"
+        "question": "Koja je 5. decimala u decimalnom zapisu broja pi?",
+        "answerA": "1",
+        "answerB": "3",
+        "answerC": "7",
+        "answerD": "9",
+        "correctAnswer": "D"
       }
     ]
   }

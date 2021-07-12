@@ -1,0 +1,275 @@
+{
+  "minimumQuestionsPerMoneyAmount": 2,
+  "questions": {
+    "dollars100": [
+      {
+        "question": "Kako se preziva božanstveni mačak Cicko?",
+        "answerA": "Tanak",
+        "answerB": "Ogranak",
+        "answerC": "Ranak",
+        "answerD": "Horvat",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Kako se na antičkom grčkom kaže mačak?",
+        "answerA": "Ailouros",
+        "answerB": "Lukos",
+        "answerC": "Koros",
+        "answerD": "Kora",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars200": [
+      {
+        "question": "Koje je godine izašao NES u SAD-u?",
+        "answerA": "1983.",
+        "answerB": "1984.",
+        "answerC": "1985.",
+        "answerD": "1986.",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Koji od navedenih sastojaka je voće?",
+        "answerA": "Krumpir",
+        "answerB": "Paprika",
+        "answerC": "Mrkva",
+        "answerD": "Rajčica",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars300": [
+      {
+        "question": "U kojem Mega Manu je predstavljen takozvani 'slide' pokret?",
+        "answerA": "1",
+        "answerB": "2",
+        "answerC": "3",
+        "answerD": "4",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Nastavi niz: 'Bebo, bebo, ...'",
+        "answerA": "'...možda te nebo.'",
+        "answerB": "'...bebo, bebo.'",
+        "answerC": "'...ma gdje si sad?'",
+        "answerD": "'...nešto sam te trebo.'",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars500": [
+      {
+        "question": "Iz kojeg je filma poznata poštapalica 'Nooo, we'll\nfight like lions!'?",
+        "answerA": "Tri Amigosa",
+        "answerB": "Snjeguljica",
+        "answerC": "Maska",
+        "answerD": "Karate Kid",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Zašto mama ne kupuje Čipi Čips prečesto?",
+        "answerA": "Jer joj se ne sviđa ime",
+        "answerB": "Jer je zastarjelo",
+        "answerC": "Jer joj se ne sviđa okus",
+        "answerD": "Jer je skuplji od drugih čipseva",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars1000": [
+      {
+        "question": "U Minecraftu, koliko je jaja potrebno da se\nnapravi torta?",
+        "answerA": "1",
+        "answerB": "2",
+        "answerC": "3",
+        "answerD": "4",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Koji boss u prvoj Castlevaniji se pojavljuje\nu nekom kasnijem levelu kao običan neprijatelj?",
+        "answerA": "Šišmiš",
+        "answerB": "Medusa",
+        "answerC": "Mumije",
+        "answerD": "Frankensteinovo čudovište",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars2000": [
+      {
+        "question": "Koji je od ovih kemijskih elemenata\nnajgušći (kg/m3)?",
+        "answerA": "Željezo",
+        "answerB": "Zlato",
+        "answerC": "Olovo",
+        "answerD": "Staklo",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Koliko iznosi jedan inč u centimetrima?",
+        "answerA": "2.24",
+        "answerB": "2.53",
+        "answerC": "2.73",
+        "answerD": "3.14",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars4000": [
+      {
+        "question": "Tko je bio Kanonik u romanu 'U registraturi'?",
+        "answerA": "Ivičin susjed u mladosti",
+        "answerB": "Ivičin mentor",
+        "answerC": "Otac Ivičine Laure",
+        "answerD": "Pravo ime Illustrissimusa",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Kako se zvao drugi predsjednik RH?",
+        "answerA": "Dražen Budiša",
+        "answerB": "Ivica Račan",
+        "answerC": "Franjo Tuđman",
+        "answerD": "Stipe Mesić",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars8000": [
+      {
+        "question": "Koji od sljedećih pasa nije postojao u bivšem susjedstvu?",
+        "answerA": "Anda",
+        "answerB": "Akil",
+        "answerC": "Pando",
+        "answerD": "Vava",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Kako se naziva oružje koje je Bizant koristio\nprotiv neprijateljske mornarice?",
+        "answerA": "Grčka vatra",
+        "answerB": "Kineska vatra",
+        "answerC": "Grčki prah",
+        "answerD": "Kineski prah",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars16000": [
+      {
+        "question": "Kako glasi djevojačko prezime od bake Ljubice?",
+        "answerA": "Naranđa",
+        "answerB": "Risek",
+        "answerC": "Gorski",
+        "answerD": "Pleh",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Kako se naziva znanost o Indijskoj kulturi?",
+        "answerA": "Indijologija",
+        "answerB": "Indologija",
+        "answerC": "Indalogija",
+        "answerD": "Indijanija",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars32000": [
+      {
+        "question": "Koliko sati traje jedan tjedan?",
+        "answerA": "24",
+        "answerB": "120",
+        "answerC": "168",
+        "answerD": "192",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "U kojem dijelu Mega Mana se po prvi put\npojavljuje Wily Capsule?",
+        "answerA": "3",
+        "answerB": "4",
+        "answerC": "5",
+        "answerD": "6",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars64000": [
+      {
+        "question": "Koje je godine preminuo drug Tito?",
+        "answerA": "1960.",
+        "answerB": "1970.",
+        "answerC": "1980.",
+        "answerD": "1990.",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "U kojem je gradu napokon poražen Napoleon Bonaparte?",
+        "answerA": "Nottingham",
+        "answerB": "Waterloo",
+        "answerC": "Manchester",
+        "answerD": "Bristol",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars125000": [
+      {
+        "question": "Koliko novčića košta Double Homing Wand\niz Mage Brothersa?",
+        "answerA": "200",
+        "answerB": "300",
+        "answerC": "400",
+        "answerD": "500",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Koliko boja može prikazati suvremeni monitor?",
+        "answerA": "Oko 16 tisuća",
+        "answerB": "Oko 64 tisuće",
+        "answerC": "Oko 16 milijuna",
+        "answerD": "Oko 64 milijuna",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars250000": [
+      {
+        "question": "Da bi neki skup bio polugrupa za zadanu operaciju,\nuz zatvorenost mora zadovoljavati i pravilo...",
+        "answerA": "...komutativnosti.",
+        "answerB": "...asocijativnosti.",
+        "answerC": "...linearnosti.",
+        "answerD": "...simetričnosti.",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Koliko trikova posjeduje Tom Turbo?",
+        "answerA": "45",
+        "answerB": "67",
+        "answerC": "89",
+        "answerD": "111",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars500000": [
+      {
+        "question": "Koliko će Hrvoje Oreški imati godina kada će\nDomagoj Oreški imati 120% njegovih godina?",
+        "answerA": "35",
+        "answerB": "40",
+        "answerC": "50",
+        "answerD": "80",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Kako glasi šifra za otključavanje pune verzije\nHopmona?",
+        "answerA": "HM-794-645",
+        "answerB": "HM-645-794",
+        "answerC": "HP-794-645",
+        "answerD": "HP-645-794",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars1000000": [
+      {
+        "question": "Kako se naziva Al Bundyjeva kći?",
+        "answerA": "Sally",
+        "answerB": "Kelly",
+        "answerC": "Mindy",
+        "answerD": "Ronda",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Koja je 5. decimala u decimalnom zapisu broja pi?",
+        "answerA": "1",
+        "answerB": "3",
+        "answerC": "7",
+        "answerD": "9",
+        "correctAnswer": "D"
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "minimumQuestionsPerMoneyAmount": 2,
+  "questions": {
+    "dollars100": [
+      {
+        "question": "Kako se preziva božanstveni mačak Cicko?",
+        "answerA": "Tanak",
+        "answerB": "Ogranak",
+        "answerC": "Ranak",
+        "answerD": "Horvat",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Koja kompanija je izmislila Super Marija?",
+        "answerA": "Nintendo",
+        "answerB": "Sony",
+        "answerC": "Kraš",
+        "answerD": "Sega",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars200": [
+      {
+        "question": "Otprilike koliko vrsta ptica ima na vrtu?",
+        "answerA": "5",
+        "answerB": "15",
+        "answerC": "30",
+        "answerD": "40",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Otprilike koliko metara je dugačko naše bivše dvorište?",
+        "answerA": "40",
+        "answerB": "60",
+        "answerC": "80",
+        "answerD": "100",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars300": [
+      {
+        "question": "Koje od ovih prezimena NE vežemo uz\nkapetana u serijalu Star Trek?",
+        "answerA": "Kirk",
+        "answerB": "Hallaway",
+        "answerC": "Janeway",
+        "answerD": "Picard",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Nastavi niz: 'Bebo, bebo, ...'",
+        "answerA": "'...možda te nebo.'",
+        "answerB": "'...bebo, bebo.'",
+        "answerC": "'...ma gdje si sad?'",
+        "answerD": "'...nešto sam te trebo.'",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars500": [
+      {
+        "question": "Iz kojeg je filma poznata poštapalica 'Nooo, we'll\nfight like lions!'?",
+        "answerA": "Tri Amigosa",
+        "answerB": "Snjeguljica",
+        "answerC": "Maska",
+        "answerD": "Karate Kid",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Koje talijansko jelo su kuhali Domagoj i Hrvoje?",
+        "answerA": "Pasta al forno",
+        "answerB": "Forno al pasta",
+        "answerC": "Pasta alla dominicana",
+        "answerD": "Pasta alla forte",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars1000": [
+      {
+        "question": "Koje marke su svi Domagojevi televizori?",
+        "answerA": "Panasonic",
+        "answerB": "Grundig",
+        "answerC": "Sony",
+        "answerD": "TCL",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "U kojem je mjesecu bio Dan mladosti?",
+        "answerA": "Svibanj",
+        "answerB": "Lipanj",
+        "answerC": "Veljača",
+        "answerD": "Kolovoz",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars2000": [
+      {
+        "question": "Koji je zabranjeni nadimak za Hrvoja?",
+        "answerA": "Zeko",
+        "answerB": "Zlato",
+        "answerC": "Mali",
+        "answerD": "Ribica",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Koliko iznosi jedan inč u centimetrima?",
+        "answerA": "2.24",
+        "answerB": "2.53",
+        "answerC": "2.73",
+        "answerD": "3.14",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars4000": [
+      {
+        "question": "Osim u Švicarskoj, u kojoj se još\ndržavi nalazi ubrzivač čestica?",
+        "answerA": "Illinois",
+        "answerB": "Japan",
+        "answerC": "Kentucky",
+        "answerD": "Nebraska",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Kako se zvao drugi predsjednik RH?",
+        "answerA": "Dražen Budiša",
+        "answerB": "Ivica Račan",
+        "answerC": "Franjo Tuđman",
+        "answerD": "Stipe Mesić",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars8000": [
+      {
+        "question": "Koji od sljedećih pasa nije postojao u bivšem susjedstvu?",
+        "answerA": "Anda",
+        "answerB": "Akil",
+        "answerC": "Pando",
+        "answerD": "Vava",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Što je najvrijednije u Srednjem vijeku?",
+        "answerA": "Zemlja",
+        "answerB": "Voće i povrće",
+        "answerC": "Začin",
+        "answerD": "Zlato",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars16000": [
+      {
+        "question": "Kako se zvao prvi\ndugometražni crtić?",
+        "answerA": "Trnoružica",
+        "answerB": "Snjeguljica i sedam patuljaka",
+        "answerC": "Palčica",
+        "answerD": "Kralj Arthur",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Kako se naziva znanost o Indijskoj kulturi?",
+        "answerA": "Indijologija",
+        "answerB": "Indologija",
+        "answerC": "Indalogija",
+        "answerD": "Indijanija",
+        "correctAnswer": "B"
+      }
+    ],
+    "dollars32000": [
+      {
+        "question": "Koliko sati traje jedan tjedan?",
+        "answerA": "24",
+        "answerB": "120",
+        "answerC": "168",
+        "answerD": "192",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Na kojoj se temperaturi atomi ioniziraju?",
+        "answerA": "10,000 K",
+        "answerB": "26,000 K",
+        "answerC": "641,000 K",
+        "answerD": "1,000,000 K",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars64000": [
+      {
+        "question": "Koje je godine preminuo drug Tito?",
+        "answerA": "1960.",
+        "answerB": "1970.",
+        "answerC": "1980.",
+        "answerD": "1990.",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Kako se naziva direktan prijelaz iz krutog u plinovito stanje?",
+        "answerA": "Taljenje",
+        "answerB": "Kondenzacija",
+        "answerC": "Sublimacija",
+        "answerD": "Isparavanje",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars125000": [
+      {
+        "question": "Kako se zove Wertherova ljubav iz romana\n'Patnje mladog Werthera'?",
+        "answerA": "Brunhilda",
+        "answerB": "Lota",
+        "answerC": "Heidi",
+        "answerD": "Petra",
+        "correctAnswer": "B"
+      },
+      {
+        "question": "Koliko boja može prikazati suvremeni monitor?",
+        "answerA": "Oko 16 tisuća",
+        "answerB": "Oko 64 tisuće",
+        "answerC": "Oko 16 milijuna",
+        "answerD": "Oko 64 milijuna",
+        "correctAnswer": "C"
+      }
+    ],
+    "dollars250000": [
+      {
+        "question": "0 stupnjeva Celzijevih je koliko u Fahrenheitima?",
+        "answerA": "8",
+        "answerB": "16",
+        "answerC": "24",
+        "answerD": "32",
+        "correctAnswer": "D"
+      },
+      {
+        "question": "Koliko trikova posjeduje Tom Turbo?",
+        "answerA": "45",
+        "answerB": "67",
+        "answerC": "89",
+        "answerD": "111",
+        "correctAnswer": "D"
+      }
+    ],
+    "dollars500000": [
+      {
+        "question": "Koliko će Hrvoje Oreški imati godina kada će\nDomagoj Oreški imati 120% njegovih godina?",
+        "answerA": "35",
+        "answerB": "40",
+        "answerC": "50",
+        "answerD": "80",
+        "correctAnswer": "C"
+      },
+      {
+        "question": "Na kojem je natjecanju Hrvoje Oreški\nimao najmanji postotak riješenosti 2020./2021. školske godine?",
+        "answerA": "Školska razina matematike",
+        "answerB": "Školska razina fizike",
+        "answerC": "Školska razina kemije",
+        "answerD": "Županijska razina fizike",
+        "correctAnswer": "A"
+      }
+    ],
+    "dollars1000000": [
+      {
+        "question": "Koje su od navedenih fizikalnih varijabli u\nkvantnoj fizici komplementarne?",
+        "answerA": "Količina gibanja i položaj",
+        "answerB": "Količina gibanja i sila",
+        "answerC": "Naboj i položaj",
+        "answerD": "Vrijeme i ubrzanje",
+        "correctAnswer": "A"
+      },
+      {
+        "question": "Koji od navedenih naslova NIJE premijerno prikazan\nna prvoj ikad filmskoj projekciji braće Lumiere 1895.?",
+        "answerA": "Poliveni polijevač",
+        "answerB": "Mačak lutalica",
+        "answerC": "Ulazak vlaka u stanicu",
+        "answerD": "Izlazak radnika iz tvornice",
+        "correctAnswer": "B"
+      }
+    ]
+  }
+}

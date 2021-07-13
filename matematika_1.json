@@ -1,5 +1,5 @@
 {
-  "answersPerQuestion": 1,
+  "minimumQuestionsPerMoneyAmount": 1,
   "questions": {
     "dollars100": [
       {

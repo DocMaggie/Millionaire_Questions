@@ -1,0 +1,24 @@
+{
+  "players": [
+    {
+        "name": "Harooooo",
+        "rating": 1640,
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "name": "Datalore",
+        "rating": 1604,
+        "country": "Croatia"
+    },
+    {
+        "name": "uux",
+        "rating": 1400,
+        "country": "Serbia"
+    },
+    {
+        "name": "ceepki",
+        "rating": 1699,
+        "country": "Croatia"
+    }
+  ]
+}
